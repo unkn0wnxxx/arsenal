@@ -1,0 +1,42 @@
+session
+start
+session
+start --tun ligolo
+ip add 172.16.121.0/24 dev ligolo
+session
+start --tun ligolo
+session
+start
+start --tun ligolo
+session
+start --tun ligolo
+session
+sessions
+session
+start
+session
+start --tun ligolo
+session
+start --tun ligolo
+session
+start --tun ligolo
+session
+start --tun ligolo
+exit
+session
+start --tun ligolo
+clear
+session
+start --tun ligolo
+session -tun ligolo
+session
+start --tun ligolo
+exit
+session
+start --tun ligolo
+session
+start --tun ligolo
+session
+start --tun ligolo
+session
+start --tun ligolo

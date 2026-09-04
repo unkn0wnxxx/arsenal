@@ -1,0 +1,2 @@
+/home/saitama/Desktop/Methodology/ReverseShell/AV_Evasion_RevShell/bin/Release/net8.0/win-x64/publish/AV_Evasion_RevShell.pdb
+/home/saitama/Desktop/Methodology/ReverseShell/AV_Evasion_RevShell/bin/Release/net8.0/win-x64/publish/AV_Evasion_RevShell.exe

